@@ -19,3 +19,7 @@ ng build --project=j8-ng-utils
 ```
 npm publish
 ```
+
+```
+npm i uuid --project=j8-ng-utils
+```
