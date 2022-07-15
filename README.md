@@ -22,4 +22,5 @@ npm publish
 
 ```
 npm i uuid --project=j8-ng-utils
+npm i @types/uuid --project=j8-ng-utils
 ```
